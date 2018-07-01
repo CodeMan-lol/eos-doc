@@ -1,5 +1,4 @@
 # EOS-Knowledge-Center
-## EOS相关信息与技术文档 ##
 
 
 [有任何问题请到这里提问@issues](https://github.com/syavingc/EOS-Knowledge-Center/issues)
