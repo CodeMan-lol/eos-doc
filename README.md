@@ -7,3 +7,7 @@
 
 
 [**EOSSTORE备份存储地址**](https://s3-ap-northeast-1.amazonaws.com/eosstorebp/index.html)
+
+[**EOSBP收益与排名**](https://explorer.eoseco.com/voting)
+
+[**查看EOSBP出块状态**](http://eos.host/mainnet)
