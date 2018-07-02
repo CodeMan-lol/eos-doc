@@ -4,9 +4,11 @@
 
 [EOSSTORE备份存储地址](https://s3-ap-northeast-1.amazonaws.com/eosstorebp/index.html)
 
-**EOSSTORE数据目录说明：**
+**EOSSTORE数据数据说明：**
 
-备份的数据为eos-data目录的数据，在各位下载后的数据只有blocks目录和state目录。需要放到你们各自设置的数据目录中。
+环境为：Ubuntu16.04
+
+数据目录为eos-data目录，在各位下载后的数据只有blocks目录和state目录。需要放到你们各自设置的数据目录中。
 
     root@eos-test-01:/data# ls
     eos-config  eos-data  eosio.log
