@@ -35,5 +35,3 @@
 **启动方式：**
 
 注意！这里不用跟第一次启动时，需要指定配置文件启动。可直接启动服务。
-
-    nohup nodeos --config-dir /data/eos-config -d /data/eos-data > /data/eosio.log 2>&1 &
