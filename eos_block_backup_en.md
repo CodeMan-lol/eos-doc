@@ -1,5 +1,7 @@
 EOS-BLOCK-BACKUP
 
+**[中文](https://github.com/syavingc/EOS-Knowledge-Center/blob/master/eos_block_backup_cn.md)**
+
 EOSSTORE shares its data backups here in case of a slow speed of data sync once EOSBP is compromised.
 
 [Address of EOSSTORE Backup Storage](https://s3-ap-northeast-1.amazonaws.com/eosstorebp/index.html)

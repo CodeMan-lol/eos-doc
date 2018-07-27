@@ -1,5 +1,7 @@
 # EOS-BLOCK-BACKUP
 
+**[英文](https://github.com/syavingc/EOS-Knowledge-Center/blob/master/eos_block_backup_en.md)**
+
 为了后期在EOSBP受到损害后，数据同步慢的问题，EOSSTORE在此进行备份数据分享
 
 [EOSSTORE备份存储地址](https://s3-ap-northeast-1.amazonaws.com/eosstorebp/index.html)
