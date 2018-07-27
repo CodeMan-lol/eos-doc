@@ -8,6 +8,10 @@ Description of EOSSTORE Backups
 
 Environment: Ubuntu16.04
 
+The parameter setting of the chain-state-db-size-mb = 20480 is 20G (20480)
+
+You can use these backups if your parameter setting is greater than 20G, and you had better not to use them if your parameter setting is less than 20G.
+
 Data directory is eos-data directory. There will be only blocks directory and state directory in these backups after you download them. You need to put these directories into you own data directory.
 
     root@eos-test-01:/data# ls
